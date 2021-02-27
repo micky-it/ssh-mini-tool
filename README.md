@@ -29,13 +29,13 @@ To install this package you must first download the files with the following com
 
 To install the program write in the terminal:
 
-`$ sudo sh install.sh`
+`$ sudo ./install.sh`
 
 ***Now the program is installed! To use it write `ssh-mini-tool` in the terminal. Good use!***
 
 To uninstall the program write in the terminal:
 
-`$ sudo sh uninstall.sh`
+`$ sudo ./uninstall.sh`
 
 ## Donations
 I am 13 years old and I really like computer science and programming. If you think this script was useful for you, you can support me by donating bitcoins to the following address:
