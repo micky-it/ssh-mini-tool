@@ -9,6 +9,9 @@ Hi! I created this program for people who are unfamiliar with the terminal or wh
 - shell 
 of a computer on the network. **(The computer on the network must have the openssh-server package installed to work)**
 
+- **Some fix, 32 bit version and Mac OS version coming soon!**
+
+
 
 ## Dependencies
 
