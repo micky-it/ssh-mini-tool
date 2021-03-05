@@ -26,7 +26,7 @@ To use this program you must first install the dependencies by writing these com
 
 ## How to install and use
 
-To install this package you must first download the files with the following command or download the zip:
+To install this package you must first download the files with the following command (64 bit) or download the latest version:
 
 `$ sudo git clone https://github.com/micky-it/ssh-mini-tool.git && cd ssh-mini-tool`
 
