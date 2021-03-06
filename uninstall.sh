@@ -12,7 +12,7 @@ echo -n "Are you sure you want to uninstall this script? [y/n]: "
 read VAR
 if [[ $VAR = y ]]
 then
-  var=$(sudo rm -r /usr/local/bin/ssh-mini-tool >> /tmp/ssh-mini-tool-ins.txt)
+  var=$(sudo rm -r /usr/local/bin/ssh-mini-tool >> /tmp/ssh-mini-tool-uns.txt)
   echo -e "$LBLUE\bUninstalling... $Z"
   sleep 2
 
