@@ -48,6 +48,12 @@ To uninstall the program write in the terminal:
 
 `$ sudo ./uninstall.sh`
 
+**If you want to use this script without installing it you can run the script or binary without running install.sh** :
+
+`$ sudo ./ssh-mini-tool.sh`
+or
+`$ sudo ./ssh-mini-tool`
+
 ## Donations
 I am 13 years old and I really like computer science and programming. If you think this script was useful for you, you can support me by donating bitcoins to the following address:
 
