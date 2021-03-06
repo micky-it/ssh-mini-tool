@@ -34,12 +34,13 @@ To install the program write in the terminal:
 
 `$ sudo ./install.sh`
 
-For Mac Os:
+**For Mac Os:**
 - Download the latest version of the zip
 - Open the terminale and run `$ sudo ./install.sh`
+- Type on the terminale `ssh-mini-tool`
 - Now con to the settings and go to security and privacy
 - Allow running ssh-mini-tool
-- Finally type ssh-mini-tool on the terminal
+- Finally re-type `ssh-mini-tool` on the terminal
 
 ***Now the program is installed! To use it write `ssh-mini-tool` in the terminal. Good use!***
 
